@@ -20,7 +20,7 @@
         <div class="firma">${vizitka.firma}</div>
         <div class="udaje">
             <div class="adresa">
-                <div>${vizitka.jmeno}</div>
+                <div>${vizitka.ulice}</div>
                 <div><span>${vizitka.obecPsc}</span></div>
             </div>
             <div class="kontakty">
